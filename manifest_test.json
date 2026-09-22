@@ -1,0 +1,11 @@
+{
+    "book_title": "Test Book",
+    "chapters": [
+        {
+            "index": 1,
+            "title": "Chapter 1",
+            "text": "This is a test sentence for Pocket-TTS MLX synthesis.",
+            "status": "approved"
+        }
+    ]
+}
